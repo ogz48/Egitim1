@@ -8,7 +8,7 @@
 						<Text id="idText" text="Oguzhan"></Text>
 						<Button text="ayse" press="pressAyse"></Button>
 						<Button text="fatma" press="pressFatma"></Button>
-						<Input id="idInput" placeholder="Buraya değer giriniz" liveChange="onLiveChange"></Input>
+						<Input id="idInput" placeholder="Buraya değer girinizzzz" liveChange="onLiveChange"></Input>
 						<ComboBox id = "idCombo" selectionChange="onChange"></ComboBox>
 						<RatingIndicator id="idRating" maxValue="5" class="sapUiSmallMarginBottom" value="4" iconSize="32px" tooltip="Rating Tooltip" />
 						<Button text="Mesaj ver" press="pressMesaj"></Button>
